@@ -1,0 +1,16 @@
+C:\Users\Impervm\source\repos\forBars\forBars\obj\Debug\net5.0\forBars.csprojAssemblyReference.cache
+C:\Users\Impervm\source\repos\forBars\forBars\obj\Debug\net5.0\forBars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impervm\source\repos\forBars\forBars\obj\Debug\net5.0\forBars.AssemblyInfoInputs.cache
+C:\Users\Impervm\source\repos\forBars\forBars\obj\Debug\net5.0\forBars.AssemblyInfo.cs
+C:\Users\Impervm\source\repos\forBars\forBars\obj\Debug\net5.0\forBars.csproj.CoreCompileInputs.cache
+C:\Users\Impervm\source\repos\forBars\forBars\bin\Debug\net5.0\forBars.exe
+C:\Users\Impervm\source\repos\forBars\forBars\bin\Debug\net5.0\forBars.deps.json
+C:\Users\Impervm\source\repos\forBars\forBars\bin\Debug\net5.0\forBars.runtimeconfig.json
+C:\Users\Impervm\source\repos\forBars\forBars\bin\Debug\net5.0\forBars.runtimeconfig.dev.json
+C:\Users\Impervm\source\repos\forBars\forBars\bin\Debug\net5.0\forBars.dll
+C:\Users\Impervm\source\repos\forBars\forBars\bin\Debug\net5.0\ref\forBars.dll
+C:\Users\Impervm\source\repos\forBars\forBars\bin\Debug\net5.0\forBars.pdb
+C:\Users\Impervm\source\repos\forBars\forBars\obj\Debug\net5.0\forBars.dll
+C:\Users\Impervm\source\repos\forBars\forBars\obj\Debug\net5.0\ref\forBars.dll
+C:\Users\Impervm\source\repos\forBars\forBars\obj\Debug\net5.0\forBars.pdb
+C:\Users\Impervm\source\repos\forBars\forBars\obj\Debug\net5.0\forBars.genruntimeconfig.cache
